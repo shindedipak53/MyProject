@@ -1,2 +1,4 @@
 
-Day 1: Sign Up and Repository has been Done.
+Day 1: 
+  Sign Up and Repository has been Done.
+  Process of Upload the Eclipse Projects in GITHUB.
